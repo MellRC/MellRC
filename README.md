@@ -3,7 +3,7 @@
   <img src="./assets/cassette-hero.gif" width="100%" alt="MellRC: red-and-black vintage cassette personal archive" />
 </p>
 
-<p align="center"><img src="./assets/tape-transport.svg" width="100%" alt="Animated cassette reels and decorative stereo level meters." /></p>
+
 <p align="center">
 <a href="#side-a"><img src="./assets/button-1.svg" alt="PLAY ▷ WORK" /></a>&nbsp;
 <a href="#side-b"><img src="./assets/button-2.svg" alt="FLIP ⇄ LINER" /></a>&nbsp;
@@ -11,9 +11,8 @@
 <a href="https://github.com/MellRC?tab=repositories"><img src="./assets/button-4.svg" alt="EJECT ↗ REPOS" /></a>
 </p>
 
-<h2 align="center">Record the spark. Build the idea.</h2>
+<h2 align="center">Hi, I'm Mellie!</h2>
 <p align="center">
-Hi, I am <b>Mellie</b>.<br/>
 This page is a cassette still rolling.<br/>
 It holds tools I shipped, ideas I collect, and details I still want to refine.
 </p>
