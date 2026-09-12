@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="220" viewBox="0 0 1440 220">
+<rect width="1440" height="220" rx="4" fill="#101010"/><rect x="1" y="1" width="1438" height="218" rx="4" fill="none" stroke="#49302d"/>
+<path d="M32 30h1376M32 188h1376M480 48v122M958 48v122" stroke="#3c3230"/>
+<g fill="#e63329" font-family="monospace" font-size="15" letter-spacing="3"><text x="52" y="69">01 / ARCHIVE</text><text x="510" y="69">02 / FREQUENCY</text><text x="988" y="69">03 / TRANSPORT</text></g>
+<g fill="#e9e0d3" font-family="monospace" font-size="30" font-weight="bold"><text x="52" y="115">IDEAS ON TAPE.</text><text x="510" y="115">HIGH OUTPUT.</text><text x="988" y="115">KEEP PLAYING.</text></g>
+<g fill="#a79c93" font-family="monospace" font-size="14" letter-spacing="2"><text x="52" y="151">MellRC / PERSONAL REPOSITORIES</text><text x="510" y="151">LOW NOISE / FULL EXPRESSION</text><text x="988" y="151">REW &#9664;&#9664;   PLAY &#9654;   REC &#9679;</text></g>
+<g fill="#e63329"><circle cx="16" cy="16" r="3"/><circle cx="1424" cy="16" r="3"/><circle cx="16" cy="204" r="3"/><circle cx="1424" cy="204" r="3"/></g></svg>
