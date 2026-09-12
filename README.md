@@ -3,7 +3,6 @@
   <img src="https://raw.githubusercontent.com/MellRC/MellRC/main/assets/cassette-hero.gif" width="100%" alt="MellRC: red-and-black vintage cassette personal archive" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/MellRC/MellRC/main/assets/tape-transport.svg" width="100%" alt="Animated cassette reels and decorative stereo level meters." /></p>
 <p align="center">
 <a href="#side-a"><img src="https://img.shields.io/badge/PLAY%20%E2%96%B7%20WORK-e63329?style=for-the-badge&labelColor=111111" alt="PLAY ▷ WORK" /></a>&nbsp;
 <a href="#side-b"><img src="https://img.shields.io/badge/FLIP%20%E2%87%84%20LINER-e63329?style=for-the-badge&labelColor=111111" alt="FLIP ⇄ LINER" /></a>&nbsp;
