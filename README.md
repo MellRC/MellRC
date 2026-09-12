@@ -13,7 +13,7 @@
 
 <h2 align="center">Record the spark. Build the idea.</h2>
 <p align="center">
-Hi, I am <b>Mellie / MellRC</b>.<br/>
+Hi, I am <b>Mellie</b>.<br/>
 This page is a cassette still rolling.<br/>
 It holds tools I shipped, ideas I collect, and details I still want to refine.
 </p>
