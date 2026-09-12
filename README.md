@@ -163,7 +163,7 @@ Want to talk about a project, share a note, or just say hi? Drop a line.
 <br/><br/>
 
 <p align="center">
-  <img src="./assets/deck-panel.svg" width="100%" alt="Personal archive. High output, low noise. Keep playing." />
+
 </p>
 
 <p align="center"><img src="./assets/signature-plate.svg" width="100%" alt="MellRC signature series. Record the spark. Build the idea." /></p>
